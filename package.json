@@ -1,0 +1,21 @@
+{
+  "name": "temasespeciales",
+  "version": "1.0.0",
+  "description": "hola mundo",
+  "license": "ISC",
+  "author": "hugo castilla",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
